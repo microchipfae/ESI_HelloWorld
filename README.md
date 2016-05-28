@@ -13,8 +13,8 @@ Plain Text:
     # Example 2:
     
     ">"
-> Example 3
-> Example 4
+> Example 3  
+> Example 4  
     
 
 ##Sample Heading 2
