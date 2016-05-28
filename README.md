@@ -15,7 +15,7 @@ Plain Text
 
 ##Sample Heading 2
 Template code example
-    #include "tn_port_asm.h"
+    #include "example.h"
     
     #define _CORE_TIMER_VECTOR 0
     #define _TIMER1_VECTOR     4
