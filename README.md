@@ -15,9 +15,9 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
  Double empty line follows this.
  
  
- Line A.
- Line B, sep.
- Line C, sep.
+ Line A.  
+ Line B, sep.  
+ Line C, sep.  
  
 
 ##Sample Heading 
