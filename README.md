@@ -9,6 +9,13 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ---
  [project documentation](http://www.microchip.com/pic32 "Generic documentation").
+ 
+ Single empty line follows this.
+ 
+ Double empty line follows this.
+ 
+ 
+ Last line.
 
 ##Sample Heading 
 Plain Text:
