@@ -1,7 +1,7 @@
 ESI Hello World
 ==============
 
-Example md Only [PIC32](http://www.microchip.com/ "TNKernel") for PIC32
+Example md Only [PIC32](http://www.microchip.com) for PIC32
 
 ---
  [project documentation](http://www.microchip.com/pic32 "Generic documentation").
