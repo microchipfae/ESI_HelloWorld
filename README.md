@@ -15,6 +15,10 @@ Plain Text:
     ">"
 > Example 3  
 > Example 4  
+
+" No > after these, just two spaces"
+Example 5  
+Example 6  
     
 
 ##Sample Heading 2
