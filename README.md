@@ -4,7 +4,7 @@ ESI Hello World
 Example md Only [PIC32](http://www.microchip.com/ "TNKernel") for PIC32
 
 ---
- [TNKernel project documentation](http://www.microchip.com/pic32 "Generic documentation").
+ [project documentation](http://www.microchip.com/pic32 "Generic documentation").
 
 ##Sample Heading 
 Plain Text
@@ -33,7 +33,7 @@ Template code example
 
 Sample license ... :
 
-    After the colon (?)l
+    After the colon (?)
 
     Copyright © 2016, 2012 Name-Here
     PIC32 version modifications copyright © 2016 Name-Here
