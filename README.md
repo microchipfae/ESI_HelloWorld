@@ -7,10 +7,10 @@ Example md Only [PIC32](http://www.microchip.com) for PIC32
  [project documentation](http://www.microchip.com/pic32 "Generic documentation").
 
 ##Sample Heading 
-Plain Text
-    // shadow box
-    Example 1
-    Example 2
+Plain Text:
+    // shadow box:
+    Example 1:
+    Example 2:
     
 
 ##Sample Heading 2
