@@ -14,7 +14,7 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
  
  Double empty line follows this.
  
- 
+Add two-spaces after line for non-wrap(?)  
  Line A.  
  Line B, sep.  
  Line C, sep.  
