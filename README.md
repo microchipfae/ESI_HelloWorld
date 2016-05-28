@@ -8,9 +8,9 @@ Example md Only [PIC32](http://www.microchip.com) for PIC32
 
 ##Sample Heading 
 Plain Text:
-    // shadow box:
-    Example 1:
-    Example 2:
+    # // shadow box:
+    # Example 1:
+    # Example 2:
     
 
 ##Sample Heading 2
